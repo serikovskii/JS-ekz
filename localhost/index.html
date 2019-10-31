@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div class="menu">
+        <div class="nav">
+            <img src="nav-img.jpg" id="navImg">
+            <h1 id="title">Рестораны Астаны</h1>
+            <div class="searchBox">
+                <input type="text" id="searchInput" placeholder="Enter restaurant name">
+                <button id="searchBtn">Search</button>
+            </div>
+        </div>
+    </div>
+    <div class="block">
+        <div class="sidebar">
+            <div class="search">
+
+            </div>
+            <div class="filter">
+                <button id="bar">Bar</button>
+                <button id="rest">Restaurant</button>
+                <button id="karaoke">Karaoke</button>
+                <button id="cafe">Cafe</button>
+                <button id="all">All restaurants</button>
+                <div class="category">
+                    <div id="categBar">
+                        <input type="radio" name="bar" id="liveMusic">Живая музыка
+                        <input type="radio" name="bar" id="dj">Танцпол
+                        <input type="radio" name="bar" id="beer">Пивной
+                    </div>
+                    <div id="categRest">
+                        <input type="radio" name="rest" id="europe">Европейская
+                        <input type="radio" name="rest" id="national">Национальная
+                        <input type="radio" name="rest" id="asian">Азиатская
+                    </div>
+                    <div id="categKaraoke">
+                        <input type="radio" name="karaoke" id="vip">Вип зал
+                        <input type="radio" name="karaoke" id="common">Общий зал
+                    </div>
+                    <div id="categCafe">
+                        <input type="radio" name="cafe" id="coffee">Кофейня
+                        <input type="radio" name="cafe" id="burger">Бургер
+                        <input type="radio" name="cafe" id="pizza">Пицца
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="box"></div>
+            <div class="postFull"></div>
+            
+        </div>
+    </div>
+    <div class="footer">
+        <p>Redtable.kz - сайт о ресторанах Астаны</p>
+        <p>Астана, ул. Достык 18, БЦ "Talan Towers"</p>
+        <p>+7 701 705 77 24</p>
+        <p>Created by Azat</p>
+    </div>
+    <script src="jquery.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

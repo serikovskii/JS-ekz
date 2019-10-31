@@ -1,0 +1,136 @@
+{
+    "restaurant":[
+        {
+            "name": "Local pub",
+            "img" : ["https://redtable.kz/wp-content/uploads/2018/09/локал-паб-би-сити-4.jpg","https://redtable.kz/wp-content/uploads/2019/09/local-pub-bi-city-3.jpg", "https://redtable.kz/wp-content/uploads/2019/09/local-pub-bi-city-4.jpg"],
+            "desc" : "Британский паб",
+            "category" : ["bar", "beer", "sport"],
+            "number" : "+7 775 007 01 07",
+            "adres": "ЖК Хайвил Блок D",
+            "price" : "10 000 тг",
+            "cusinie" : "Европейская",
+            "time": "16:00 - 04:00"
+        },
+        {
+            "name": "Carreta",
+            "img" : ["https://redtable.kz/wp-content/uploads/2018/10/carreta-астана-4.jpg","https://redtable.kz/wp-content/uploads/2018/10/carreta-астана-2.jpg", "https://redtable.kz/wp-content/uploads/2018/10/carreta-астана-7.jpg"],
+            "desc" : "Lounge bar",
+            "category" : ["bar","rest","hookah", "vip", "karaoke", "europe"],
+            "number" : "+7 775 007 01 22",
+            "adres": "Керей Жанибек хандар 22",
+            "price" : "8 000 тг",
+            "cusinie" : "Европейская",
+            "time": "12:00 - 04:00"
+        },
+        {
+            "name": "GQ",
+            "img" : ["https://redtable.kz/wp-content/uploads/2017/10/gq-астана-4.jpg","https://redtable.kz/wp-content/uploads/2017/10/gq-астана-2.jpg", "https://redtable.kz/wp-content/uploads/2017/10/gq-астана-1.jpg"],
+            "desc" : "Панорамный ресторан",
+            "category" : ["rest", "vip", "karaoke", "asian" , "europe"],
+            "number" : "+7 775 007 01 13",
+            "adres": "БЦ Москва",
+            "price" : "12 000 тг",
+            "cusinie" : "Европейская, Японская",
+            "time": "12:00 - 03:00"
+        },
+        {
+            "name": "Butchers",
+            "img" : ["https://redtable.kz/wp-content/uploads/2017/10/butchers-астана-7.jpg","https://redtable.kz/wp-content/uploads/2017/10/butchers-астана-5.jpg", "https://redtable.kz/wp-content/uploads/2017/10/butchers-астана-2.jpg"],
+            "desc" : "Паб с живой музыкой",
+            "category" : ["bar", "beer", "sport", "liveMusic"],
+            "number" : "+7 775 007 01 29",
+            "adres": "Керей Жанибек 14",
+            "price" : "9 000 тг",
+            "cusinie" : "Европейская",
+            "time": "12:00 - 02:00"
+        },
+        {
+            "name": "Brewery",
+            "img" : ["https://redtable.kz/wp-content/uploads/2015/03/бревери-2.jpg","https://redtable.kz/wp-content/uploads/2015/03/бревери-4.jpg", "https://redtable.kz/wp-content/uploads/2015/03/бревери-5.jpg"],
+            "desc" : "Пивной ресторан с живой музыкой",
+            "category" : ["bar", "beer", "liveMusic", "sport", "rest", "karaoke", "vip"],
+            "number" : "+7 775 007 01 31",
+            "adres": "Туран 40",
+            "price" : "10 000 тг",
+            "cusinie" : "Европейская",
+            "time": "12:00 - 02:00"
+        },
+        {
+            "name": "Yakitoriya",
+            "img" : ["https://redtable.kz/wp-content/uploads/2019/06/якитория-республика-астана-4.jpg","https://redtable.kz/wp-content/uploads/2019/06/якитория-республика-астана-3.jpg", "https://redtable.kz/wp-content/uploads/2019/06/якитория-республика-астана-2.jpg"],
+            "desc" : "Японский ресторан",
+            "category" : ["rest", "asian"],
+            "number" : "+7 775 007 01 25",
+            "adres": "Туран 22",
+            "price" : "7 000 тг",
+            "cusinie" : "Японская",
+            "time": "12:00 - 01:00"
+        },
+        {
+            "name": "Pivovaroff",
+            "img" : ["https://redtable.kz/wp-content/uploads/2019/08/пивоваров-астана-6.jpg","https://redtable.kz/wp-content/uploads/2019/08/пивоваров-астана-2.jpg", "https://redtable.kz/wp-content/uploads/2019/08/пивоваров-астана-5.jpg"],
+            "desc" : "Пивной ресторан",
+            "category" : ["bar", "beer", "sport", "rest", "europe"],
+            "number" : "+7 775 007 01 14",
+            "adres": "Петрова 40",
+            "price" : "11 000 тг",
+            "cusinie" : "Европейская",
+            "time": "12:00 - 01:00"
+        },
+        {
+            "name": "Espresso Bar",
+            "img" : ["https://redtable.kz/wp-content/uploads/2019/09/metis-астана.jpg","https://redtable.kz/wp-content/uploads/2019/09/local-pub-bi-city-3.jpg", "https://redtable.kz/wp-content/uploads/2019/09/local-pub-bi-city-4.jpg"],
+            "desc" : "Кофейня на Ауэзова",
+            "category" : ["cafe", "coffee"],
+            "number" : "+7 775 007 01 44",
+            "adres": "Ауэзова 18",
+            "price" : "3 000 тг",
+            "cusinie" : "Европейская",
+            "time": "08:00 - 23:00"
+        },
+        {
+            "name": "BHB",
+            "img" : ["https://redtable.kz/wp-content/uploads/2019/09/bhb-bar-астана-8.jpg","https://redtable.kz/wp-content/uploads/2019/09/bhb-bar-астана-7.jpg", "https://redtable.kz/wp-content/uploads/2019/09/bhb-bar-астана-6.jpg"],
+            "desc" : "Клуб, объединивший 15 баров в одном месте",
+            "category" : ["bar", "dj"],
+            "number" : "+7 775 007 01 32",
+            "adres": "Гостиница ДУман",
+            "price" : "5 000 тг",
+            "cusinie" : "Европейская",
+            "time": "18:00 - 06:00"
+        },
+        {
+            "name": "Bla Bla Bar",
+            "img" : ["https://redtable.kz/wp-content/uploads/2018/10/бла-бла-бар-астана-5.jpg","https://redtable.kz/wp-content/uploads/2018/10/бла-бла-бар-астана-4.jpg", "https://redtable.kz/wp-content/uploads/2018/10/бла-бла-бар-астана-2.jpg"],
+            "desc" : "13 баров в одной локации",
+            "category" : ["bar", "dj"],
+            "number" : "+7 775 007 01 34",
+            "adres": "ТРЦ Сарыарка",
+            "price" : "7 000 тг",
+            "cusinie" : "Европейская",
+            "time": "18:00 - 03:00"
+        },
+        {
+            "name": "Bao Bao",
+            "img" : ["https://redtable.kz/wp-content/uploads/2019/05/bao-bao-астана-8.jpg","https://redtable.kz/wp-content/uploads/2019/05/bao-bao-астана-6.jpg", "https://redtable.kz/wp-content/uploads/2019/05/bao-bao-астана-5.jpg"],
+            "desc" : "Ресторан бар с тайской кухней",
+            "category" : ["bar", "dj", "rest", "asian", "karaoke", "vip"],
+            "number" : "+7 775 007 01 17",
+            "adres": "Кабанбай батыра 5, Цирк",
+            "price" : "14 000 тг",
+            "cusinie" : "Тайская, Японская, Европейская",
+            "time": "12:00 - 06:00"
+        },
+        {
+            "name": "Asia Rooms",
+            "img" : ["https://redtable.kz/wp-content/uploads/2018/04/asia-rooms-астана-redtable.jpg","https://redtable.kz/wp-content/uploads/2017/11/asia-rooms-astana-4.jpg", "https://redtable.kz/wp-content/uploads/2017/11/asia-rooms-astana-3.jpg"],
+            "desc" : "Приватный караоке ресторан",
+            "category" : ["rest", "asian", "karaoke", "vip", "common"],
+            "number" : "+7 775 007 01 11",
+            "adres": "Калдаякова 34",
+            "price" : "15 000 тг",
+            "cusinie" : "Японская",
+            "time": "18:00 - 06:00"
+        }
+    ]
+}
